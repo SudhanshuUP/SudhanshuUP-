@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [](https://www.linkedin.com/in/sudhanshu-pandey-757aa5245/)
+- LinkedIn: https://www.linkedin.com/in/sudhanshu-pandey-757aa5245/
 - Email: pandeyji.sudhanshu.445512@gmail.com
 
 ⭐ *Consistency builds confidence.*
