@@ -3,7 +3,7 @@
 
 🎓 B.Tech CSE| Avantika University  
 💻 Aspiring Software Developer | AI • DSA • Backend  
-📍 India  
+📍 India varanasi  
 
 ---
 
